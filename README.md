@@ -2,7 +2,7 @@ Transformer
 =================
 ### A Form generator for speed of getting things done 
 
-Transformer was created by, and is maintained by [Andrew Huggins](https://github.com/). Feel free to check out the [change log](CHANGELOG.md), [releases](https://github.com/ptondereau/laravel-packme/releases), [license](LICENSE), and [contribution guidelines](CONTRIBUTING.md).
+Transformer was created by, and is maintained by [Andrew Huggins](https://github.com/ahuggins). Feel free to check out the [change log](CHANGELOG.md), [license](LICENSE), and [contribution guidelines](CONTRIBUTING.md).
 
 ## Installation
 
